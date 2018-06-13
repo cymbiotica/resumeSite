@@ -161,7 +161,7 @@ sup {
 }
 
 a {
-  color: #007bff;
+  color: #045F04;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
@@ -2907,12 +2907,12 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #007bff;
+  color: #045F04;
   background-color: transparent;
 }
 
 .btn-link:hover {
-  color: #0056b3;
+  color: #045F04;
   text-decoration: underline;
   background-color: transparent;
   border-color: transparent;
@@ -4643,7 +4643,7 @@ input[type="button"].btn-block {
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: #007bff;
+  color: 045F04;
   background-color: #fff;
   border: 1px solid #dee2e6;
 }
@@ -8805,7 +8805,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #007bff !important;
+  color: #045F04 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
